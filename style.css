@@ -44,7 +44,7 @@ html {
 
 .header_back{
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5)),
-    url("/assets/img/cover.jpg");
+    url("cover.jpg");
     width: 100%;
     height: 80vh;
     background-size: cover;
